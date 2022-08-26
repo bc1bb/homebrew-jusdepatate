@@ -1,7 +1,16 @@
 # `homebrew-jusdepatate` 🍺
 
 ```shell
-brew tap jusdepatate/jusdepatate # get tap
-
-brew install mkhtml # install mkhtml
+brew tap jusdepatate/jusdepatate
 ```
+
+## `mkhtml`
+```
+brew install mkhtml
+```
+
+## `info.sh`
+```
+brew install infosh
+```
+
