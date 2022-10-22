@@ -4,9 +4,9 @@
 class Mkhtml < Formula
   desc "Simple static site generator"
   homepage "https://github.com/jusdepatate/mkhtml/"
-  url "https://github.com/jusdepatate/mkhtml/archive/refs/tags/v3.3.1.tar.gz"
-  version "3.3.1"
-  sha256 "8153ed543eca474d7f169836e68d0ee813b8825546cf9558026588314a304484"
+  url "https://github.com/jusdepatate/mkhtml/archive/refs/tags/v3.4.0.tar.gz"
+  version "3.4.0"
+  sha256 "6539d4489b8db91ab530447434560002fdf5a0c5cde15885dd1a7604ddc1373c"
   license "GPL-3.0-only"
 
   depends_on "rust" => :build
